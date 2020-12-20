@@ -1,5 +1,5 @@
 # keeboard
-Simple **e-commerce website** for a University Course
+A simple working **e-commerce website**
 
 ## Home Page
 ![home preview](previews/home.png)
@@ -17,4 +17,4 @@ Simple **e-commerce website** for a University Course
 ![home preview](previews/cart.png)
 
 ## Additional Information
-A static [template](https://templated.co/) was used with modifications (php, css, js)
+A static [template](https://templated.co/) was used for the basic layout
