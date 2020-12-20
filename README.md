@@ -17,4 +17,4 @@ Simple **e-commerece website** for a University Course
 ![home preview](previews/cart.png)
 
 ## Additional Information
-A static template [here](https://templated.co/) was used with modifications (php,css,js)
+A static [template](https://templated.co/) was used with modifications (php, css, js)
