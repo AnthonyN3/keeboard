@@ -1,5 +1,5 @@
 # keeboard
-Simple **e-commerece website** for a University Course
+Simple **e-commerce website** for a University Course
 
 ## Home Page
 ![home preview](previews/home.png)
